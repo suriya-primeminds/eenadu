@@ -4,14 +4,16 @@
 {
     'name': 'Odoo 16 Assets Management',
     'version': '16.0.1.3.0',
-    'author': 'Odoo Mates, Odoo SA',
+    'author': 'Prime Minds Consulting Pvt Ltd',
+    'company': 'Prime Minds Consulting Pvt Ltd',
+    'maintainer': 'Prime Minds Consulting Pvt Ltd',
+    'website': "https://www.primeminds.co/",
     'depends': ['account'],
     'description': """Manage assets owned by a company or a person. 
         Keeps track of depreciation's, and creates corresponding journal entries""",
     'summary': 'Odoo 16 Assets Management',
     'category': 'Accounting',
     'sequence': 10,
-    'website': 'https://www.odoomates.tech',
     'license': 'LGPL-3',
     'images': ['static/description/assets.gif'],
     'data': [
