@@ -3,13 +3,15 @@
 
 {
     'name': 'Odoo 16 Budget Management',
-    'author': 'Odoo Mates, Odoo SA',
+    'author': 'Prime Minds Consulting Pvt Ltd',
+    'company': 'Prime Minds Consulting Pvt Ltd',
+    'maintainer': 'Prime Minds Consulting Pvt Ltd',
+    'website': "https://www.primeminds.co/",
     'category': 'Accounting',
     'version': '16.0.1.0.0',
     'description': """Use budgets to compare actual with expected revenues and costs""",
     'summary': 'Odoo 16 Budget Management',
     'sequence': 10,
-    'website': 'https://www.odoomates.tech',
     'depends': ['account'],
     'license': 'LGPL-3',
     'data': [

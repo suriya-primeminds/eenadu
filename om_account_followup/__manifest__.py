@@ -6,9 +6,11 @@
     'category': 'Accounting',
     'description': """Customer FollowUp Management""",
     'summary': """Customer FollowUp Management""",
-    'author': 'Odoo Mates, Odoo S.A',
+    'author': 'Prime Minds Consulting Pvt Ltd',
+    'company': 'Prime Minds Consulting Pvt Ltd',
+    'maintainer': 'Prime Minds Consulting Pvt Ltd',
+    'website': "https://www.primeminds.co/",
     'license': 'LGPL-3',
-    'website': 'https://www.odoomates.tech',
     'depends': ['account', 'mail'],
     'data': [
         'security/security.xml',

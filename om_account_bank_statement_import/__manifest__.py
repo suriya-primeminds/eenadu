@@ -5,9 +5,10 @@
     'version': '16.0.2.0.0',
     'category': 'Accounting',
     'depends': ['account'],
-    'website': 'https://www.odoomates.tech',
-    'author': 'Odoo Mates, Odoo SA',
-    'support': 'odoomates@gmail.com',
+    'author': 'Prime Minds Consulting Pvt Ltd',
+    'company': 'Prime Minds Consulting Pvt Ltd',
+    'maintainer': 'Prime Minds Consulting Pvt Ltd',
+    'website': "https://www.primeminds.co/",
     'maintainer': 'Odoo Mates',
     'license': 'LGPL-3',
     'description': """Generic Wizard to Import Bank Statements In Odoo 16 Community Edition.

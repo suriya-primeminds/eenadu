@@ -3,13 +3,15 @@
 
 {
     'name': 'Odoo 16 Recurring Payment',
-    'author': 'Odoo Mates',
+    'author': 'Prime Minds Consulting Pvt Ltd',
+    'company': 'Prime Minds Consulting Pvt Ltd',
+    'maintainer': 'Prime Minds Consulting Pvt Ltd',
+    'website': "https://www.primeminds.co/",
     'category': 'Accounting',
     'version': '1.0.0',
     'description': """Odoo 16 Recurring Payment, Recurring Payment In Odoo, Odoo 16 Accounting""",
     'summary': 'Use recurring payments to handle periodically repeated payments',
     'sequence': 11,
-    'website': 'https://www.odoomates.tech',
     'depends': ['account'],
     'license': 'LGPL-3',
     'data': [
